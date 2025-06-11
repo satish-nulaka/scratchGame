@@ -19,5 +19,7 @@
    You can run this from your IDE by using Scratch class, But you have to pass cmd arguments like this --config <config-file-path> --betting-amount <amount>
 
     OR
-   You Can package this into jar file by using mvn clean package
-   it will generate a jar file in the target folder and you can run that jar file using java -jar target/scratchGame-1.0-SNAPSHOT.jar --config <config-file-path>    --betting-amount <amount> 
+   You Can package this into jar file by using
+   mvn clean package
+   it will generate a jar file in the target folder and you can run that jar file using
+   java -jar target/scratchGame-1.0-SNAPSHOT.jar --config <config-file-path>    --betting-amount <amount> 
